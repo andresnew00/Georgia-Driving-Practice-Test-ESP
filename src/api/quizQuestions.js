@@ -85,6 +85,41 @@ var quizQuestions = [
       },
     ],
   },
+  {
+    question: "Donde debe ir la persona con licencia cuando la persona con permiso va manejando el vehiculo?",
+    answers: [
+      {
+        type: "Correct",
+        content: "En el asiento de pasajero del frente.",
+      },
+      {
+        type: "Incorrect",
+        content: "En el asiento trasero justo atras del conductor.",
+      },
+      {
+        type: "Incorrect",
+        content: "En cualquier lugar que escoja.",
+      },
+    ],
+  },
+  {
+    question: "Vas manejando detras de una motocicleta y te la quieres pasar. Tu debes:",
+    answers: [
+      {
+        type: "Correct",
+        content: "Tener tu vehiculo completamente en el carril izquierdo antes y durante el pase.",
+      },
+      {
+        type: "Incorrect",
+        content: "Toca la bocina para que la motocicleta se mueva hacia el hombro del carril para que puedas pasar.",
+      },
+      {
+        type: "Incorrect",
+        content: "Quedate en la linea derecha el mayor tiempo posible, porque la motocicleta es pequena y no ocupa toda la linea.",
+      },
+    ],
+  },
+
 ];
 
 export default quizQuestions;

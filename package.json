@@ -1,9 +1,8 @@
 {
-
-  "homepage": "https://andresnew00.github.io/Georgia-Driving-Practice-Test-ESP",
   "name": "react-quiz",
   "version": "2.0.0",
   "private": false,
+  "homepage": "https://github.com/andresnew00/Georgia-Driving-Practice-Test-ESP",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
@@ -13,11 +12,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "master -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
