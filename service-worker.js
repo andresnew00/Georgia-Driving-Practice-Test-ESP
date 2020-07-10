@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/andresnew00/Georgia-Driving-Practice-Test-ESP/precache-manifest.e6d062014813624091c4ca578bd8d861.js"
+  "/Georgia-Driving-Practice-Test-ESP/precache-manifest.b86e9ecaf171867f0d85729ab6e86af5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/andresnew00/Georgia-Driving-Practice-Test-ESP/index.html", {
+workbox.routing.registerNavigationRoute("/Georgia-Driving-Practice-Test-ESP/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
