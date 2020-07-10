@@ -120,7 +120,7 @@ var quizQuestions = [
     ],
   },
   {
-    question: "Todos los ninos de 8 a 18 tienen requerido manejar:",
+    question: "Todos los niños de 8 a 18 tienen requerido manejar:",
     answers: [
       {
         type: "Correct",
@@ -329,6 +329,57 @@ var quizQuestions = [
       {
         type: "Incorrect",
         content: "Frenar Inapropiadamente",
+      },
+    ],
+  },
+  {
+    question: "Que edad debes tener para obtener una licencia provicional en Georgia?",
+    answers: [
+      {
+        type: "Correct",
+        content: "al menos 15 años",
+      },
+      {
+        type: "Incorrect",
+        content: "al menos 14 años",
+      },
+      {
+        type: "Incorrect",
+        content: "al menos 17 años",
+      },
+    ],
+  },
+  {
+    question: "Cuando se hizo efectiva la ley de Manos libres de Georgia?",
+    answers: [
+      {
+        type: "Correct",
+        content: "Julio 1, 2018",
+      },
+      {
+        type: "Incorrect",
+        content: "Mayo 3, 2019",
+      },
+      {
+        type: "Incorrect",
+        content: "Febrero 30, 2015",
+      },
+    ],
+  },
+  {
+    question: "Pasarte otros conductores esta prohivido en carreteras con dos carriles cuando estas a _____ de un puente, o tunel. O en areas donde se avisos indican que no se debe pasar.",
+    answers: [
+      {
+        type: "Correct",
+        content: "100 pies",
+      },
+      {
+        type: "Incorrect",
+        content: "75  pies",
+      },
+      {
+        type: "Incorrect",
+        content: "200 pies",
       },
     ],
   },
