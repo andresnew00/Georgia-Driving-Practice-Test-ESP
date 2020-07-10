@@ -119,6 +119,23 @@ var quizQuestions = [
       },
     ],
   },
+  {
+    question: "Vas manejando detras de una motocicleta y te la quieres pasar. Tu debes:",
+    answers: [
+      {
+        type: "Correct",
+        content: "Tener tu vehiculo completamente en el carril izquierdo antes y durante el pase.",
+      },
+      {
+        type: "Incorrect",
+        content: "Toca la bocina para que la motocicleta se mueva hacia el hombro del carril para que puedas pasar.",
+      },
+      {
+        type: "Incorrect",
+        content: "Quedate en la linea derecha el mayor tiempo posible, porque la motocicleta es pequena y no ocupa toda la linea.",
+      },
+    ],
+  },
 
 ];
 
