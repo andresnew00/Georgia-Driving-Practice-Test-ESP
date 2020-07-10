@@ -120,23 +120,218 @@ var quizQuestions = [
     ],
   },
   {
-    question: "Vas manejando detras de una motocicleta y te la quieres pasar. Tu debes:",
+    question: "Todos los ninos de 8 a 18 tienen requerido manejar:",
     answers: [
       {
         type: "Correct",
-        content: "Tener tu vehiculo completamente en el carril izquierdo antes y durante el pase.",
+        content: "Con un asiento de seguridad para ninos o un cinturon de seguridad",
       },
       {
         type: "Incorrect",
-        content: "Toca la bocina para que la motocicleta se mueva hacia el hombro del carril para que puedas pasar.",
+        content: "En la parte delatera del vehiculo",
       },
       {
         type: "Incorrect",
-        content: "Quedate en la linea derecha el mayor tiempo posible, porque la motocicleta es pequena y no ocupa toda la linea.",
+        content: "En la parte trasera del vehiculo",
       },
     ],
   },
-
+  {
+    question: "Las calles y autopistas son mas rebalosas cuando:",
+    answers: [
+      {
+        type: "Correct",
+        content: "Justo cuando acaba de comenzar a llover",
+      },
+      {
+        type: "Incorrect",
+        content: "Cuando ha estado lloviendo por ya algunas horas",
+      },
+      {
+        type: "Incorrect",
+        content: "Cuando estan limpias y secas",
+      },
+    ],
+  },
+  {
+    question: "Manejar requiere toda tu atencion",
+    answers: [
+      {
+        type: "Correct",
+        content: "Verdadero",
+      },
+      {
+        type: "Incorrect",
+        content: "Falso",
+      },
+    ],
+  },
+  {
+    question: "Es mas peligroso manejar de noche que de dia, porque:",
+    answers: [
+      {
+        type: "Correct",
+        content: "No puedes ver tan lejos de noche",
+      },
+      {
+        type: "Incorrect",
+        content: "Tu reaccion es mas lenta de noche",
+      },
+      {
+        type: "Incorrect",
+        content: "La calle es mas resbalosa de noche",
+      },
+    ],
+  },
+  {
+    question: "Cuando se esta operando un vehiculo, es ilegal sostener fisicamente o soportar con cualquier parte del cuerpo un dispositivo inalambrico",
+    answers: [
+      {
+        type: "Correct",
+        content: "Verdadero",
+      },
+      {
+        type: "Incorrect",
+        content: "Falso",
+      },
+    ],
+  },
+  {
+    question: "La velocidad minima en las calles interestatales de Georgia es de:",
+    answers: [
+      {
+        type: "Correct",
+        content: "40 MPH",
+      },
+      {
+        type: "Incorrect",
+        content: "65 MPH",
+      },
+      {
+        type: "Incorrect",
+        content: "55 MPH",
+      },
+    ],
+  },
+  {
+    question: "La linea doble amarilla en el centro de la autopista significa:",
+    answers: [
+      {
+        type: "Correct",
+        content: "Pasar esta prohivido",
+      },
+      {
+        type: "Incorrect",
+        content: "Te acercas a una interseccion peligrosa",
+      },
+      {
+        type: "Incorrect",
+        content: "Pasar esta permitido cuando sea seguro",
+      },
+    ],
+  },
+  {
+    question: "Cuando manejas detras de otro vehiculo de noche, deberias:",
+    answers: [
+      {
+        type: "Correct",
+        content: "Mantener tus luces bajas",
+      },
+      {
+        type: "Incorrect",
+        content: "Usar las luces altas hasta que estes a 10 pies de distancia del otro vehiculo",
+      },
+      {
+        type: "Incorrect",
+        content: "Usar las luces altas",
+      },
+    ],
+  },
+  {
+    question: "Cuando las ruedas de tu vehiculo se salen del pavimento, deberias:",
+    answers: [
+      {
+        type: "Correct",
+        content: "Sostener el volante firmemente; soltar el acelerador; y gentilmente aplicar los frenos",
+      },
+      {
+        type: "Incorrect",
+        content: "Aplicar los frenos y voltear las ruedas delanteras fuertemente hacia la izquierda",
+      },
+      {
+        type: "Incorrect",
+        content: "Soltar el acelerador y voltear las ruedas frontales hacia la izquierda para subirte de nuevo al pavimento",
+      },
+    ],
+  },
+  {
+    question: "Si un conductor es sentenciado por violar la ley de Manos Libres 'Hands Free', ellos tendran que:",
+    answers: [
+      {
+        type: "Correct",
+        content: "Todas las anteriores",
+      },
+      {
+        type: "Incorrect",
+        content: "Pagar una multa de al menos $50",
+      },
+      {
+        type: "Incorrect",
+        content: "Acumulara al menos 1 punto en la licencia",
+      },
+    ],
+  },
+  {
+    question: "Quien tiene el derecho a seguir en un STOP de 4 vias? '4-way stop'",
+    answers: [
+      {
+        type: "Correct",
+        content: "La primera persona en parar es la primera en seguir",
+      },
+      {
+        type: "Incorrect",
+        content: "La persona a la derecha siempre va primero",
+      },
+      {
+        type: "Incorrect",
+        content: "La persona a la izquierda siempre va primero",
+      },
+    ],
+  },
+  {
+    question: "Cuando un vehiculo se aproxima por la parte trasera o delantera, y esta mostrando luces de emergencia y sonando una sirena, tu debes:",
+    answers: [
+      {
+        type: "Correct",
+        content: "Moverte hacia la derecha y detenerte",
+      },
+      {
+        type: "Incorrect",
+        content: "Bajar la velocidad hasta que el vehiculo pase",
+      },
+      {
+        type: "Incorrect",
+        content: "Continuar a la misma velocidad, pero mantenerte a la derecha",
+      },
+    ],
+  },
+  {
+    question: "Las coliciones traseras son usualmente causadas por:",
+    answers: [
+      {
+        type: "Correct",
+        content: "Seguir muy de cerca",
+      },
+      {
+        type: "Incorrect",
+        content: "Alta velocidad",
+      },
+      {
+        type: "Incorrect",
+        content: "Frenar Inapropiadamente",
+      },
+    ],
+  },
 ];
 
 export default quizQuestions;
