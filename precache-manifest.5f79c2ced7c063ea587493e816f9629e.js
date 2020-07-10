@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Georgia-Driving-Practice-Test-ESP/static/media/icon-check.4cffa739.svg"
   },
   {
-    "revision": "b6c533f16f7656524430e614168c7f9d",
+    "revision": "8be769b0f206e46d976741d3686a16c1",
     "url": "/Georgia-Driving-Practice-Test-ESP/index.html"
   }
 ];
