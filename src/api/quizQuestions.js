@@ -383,6 +383,108 @@ var quizQuestions = [
       },
     ],
   },
+  {
+    question: "Una persona MAYOR de 21 anos es considerado 'bajo la influencia' cuando tiene un total de ____ alcohol en sangre",
+    answers: [
+      {
+        type: "Correct",
+        content: "0.08 gm",
+      },
+      {
+        type: "Incorrect",
+        content: "0.02 gm",
+      },
+      {
+        type: "Incorrect",
+        content: "0.01 gm",
+      },
+    ],
+  },
+  {
+    question: "Una persona MENOR de 21 anos es considerado 'bajo la influencia' cuando tiene un total de ____ alcohol en sangre",
+    answers: [
+      {
+        type: "Correct",
+        content: "0.02 gm",
+      },
+      {
+        type: "Incorrect",
+        content: "0.08 gm",
+      },
+      {
+        type: "Incorrect",
+        content: "0.05 gm",
+      },
+    ],
+  },
+  {
+    question: "Pararse, or estacionarse es permitido solo momentariamente para dejar o recoger pasajeros, cuando usted esta a ______ de la entrada de autos de una estacion de bomberos",
+    answers: [
+      {
+        type: "Correct",
+        content: "20 pies",
+      },
+      {
+        type: "Incorrect",
+        content: "15 pies",
+      },
+      {
+        type: "Incorrect",
+        content: "75 pies",
+      },
+    ],
+  },
+  {
+    question: "____________ son azul con letras y simbolos blancos",
+    answers: [
+      {
+        type: "Correct",
+        content: "Las senales de servicio",
+      },
+      {
+        type: "Incorrect",
+        content: "Las senales de advertencia",
+      },
+      {
+        type: "Incorrect",
+        content: "las senales de destino",
+      },
+    ],
+  },
+  {
+    question: "La forma octagonal es usada: ",
+    answers: [
+      {
+        type: "Correct",
+        content: "Exclusivamente para senales de pare",
+      },
+      {
+        type: "Incorrect",
+        content: "para advertir conductores sobre peligros existentes",
+      },
+      {
+        type: "Incorrect",
+        content: "para senales de pare y de advertencia de ferrocarril",
+      },
+    ],
+  },
+  {
+    question: "Seguir a otro vehiculo muy cerca se conoce como: ",
+    answers: [
+      {
+        type: "Correct",
+        content: "Tailgating",
+      },
+      {
+        type: "Incorrect",
+        content: "Closetailing",
+      },
+      {
+        type: "Incorrect",
+        content: "Speedgating",
+      },
+    ],
+  },
 ];
 
 export default quizQuestions;

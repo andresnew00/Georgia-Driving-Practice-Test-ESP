@@ -58,11 +58,11 @@ class App extends Component {
 
     // if there is a next question
     if (this.state.questionId < quizQuestions.length) {
-      setTimeout(() => this.setNextQuestion(), 300);
+      setTimeout(() => this.setNextQuestion(), 500);
     } 
     // if there is no next question then calculate result
     else {
-      setTimeout(() => this.setResults(this.getResults()), 300);
+      setTimeout(() => this.setResults(this.getResults()), 500);
     }
   }
 
@@ -70,7 +70,7 @@ class App extends Component {
   valueOfQuesion() {
     const amountOfquestions = quizQuestions.length;
 
-    return 100 / amountOfquestions;
+    return Math.round(100 / amountOfquestions);
   }
 
   setUserAnswer(answer) {
@@ -139,7 +139,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Practica para el examen de manejo de Georgia</h2>
+          <h2>Practica Para El Examen De Manejo De Georgia</h2>
         </div>
         {this.state.result ? this.renderResult() : this.renderQuiz()}
       </div>
