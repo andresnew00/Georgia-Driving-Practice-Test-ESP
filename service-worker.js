@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Georgia-Driving-Practice-Test-ESP/precache-manifest.ce7e23b2e59a4a8c0326f02c42e6e1be.js"
+  "/Georgia-Driving-Practice-Test-ESP/precache-manifest.2e0718444591c31ffed95d66932670af.js"
 );
 
 workbox.clientsClaim();
