@@ -1,23 +1,23 @@
 var quizQuestions = [
   {
-    question: "Cuando manejas de noche, debes bajar las luces cuando:",
+    question: "Cuando usted maneja de noche, debe bajar las luces cuando:",
     answers: [
       {
         type: "Incorrect",
-        content: "Cuando las luces del otro vehiculo estan bajas",
+        content: "Las luces del otro vehiculo estan bajas",
       },
       {
         type: "Correct",
-        content: "Cuando te encuentras con otro vehiculo",
+        content: "Te enfrentas con otro vehiculo",
       },
       {
         type: "Incorrect",
-        content: "Cuando te acercas a una interseccion",
+        content: "Te acercas a una interseccion",
       }
     ],
   },
   {
-    question: "La ley de manos libres de Georgia le aplica a que de lo siguiente:",
+    question: "La ley de manos libres de Georgia le aplica a cual de los siguientes:",
     answers: [
       {
         type: "Correct",
@@ -35,32 +35,32 @@ var quizQuestions = [
   },
   {
     question:
-      "La ley de 'Move-Over' implica que los conductores:",
+      "La ley de 'Move-Over' implica que los conductores deben:",
     answers: [
       {
         type: "Correct",
-        content: "Moverse al menos una linea alejado de un vehiculo de emergencia que esta estacionado, o si no puede moverse, bajar la velocidad por debajo del limite de velocidad.",
+        content: "Moverse al menos una linea alejandose de un vehiculo de emergencia que esta estacionado, o si no puede moverse, bajar la velocidad por debajo del limite de velocidad.",
       },
       {
         type: "Incorrect",
-        content: "Mantenerce en la linea derecha si manejas un tractor o trailer",
+        content: "Mantenerce en la linea derecha si manejan un tractor o trailer",
       },
       {
         type: "Incorrect",
-        content: "Quitar vehiculos fuera de las lineas de trafico que siguen un accidente.",
+        content: "Quitar vehiculos de las lineas de trafico que siguen a un accidente.",
       },
     ],
   },
   {
-    question: "Si te ves envuelta en un accidente, uno de los requerimientos principales es:",
+    question: "Si usted se ve envuelto en un accidente, uno de los requisitos principales es:",
     answers: [
       {
         type: "Correct",
-        content: "Bridar ayuda a los heridos.",
+        content: "Brindar ayuda a los heridos.",
       },
       {
         type: "Incorrect",
-        content: "Notificar al setretario de estado.",
+        content: "Notificar al secretario de estado.",
       },
       {
         type: "Incorrect",
@@ -69,19 +69,19 @@ var quizQuestions = [
     ],
   },
   {
-    question: "Que deberias hacer cuando ves una senal de trafico amarilla parpadeando en la siguiente interseccion?",
+    question: "Que debe usted hacer cuando ve una señal de trafico amarilla parpadeando en la siguiente interseccion?",
     answers: [
       {
         type: "Correct",
-        content: "Baja la velocidad y procede con precaucion.",
+        content: "Bajar la velocidad y proceder con precaucion.",
       },
       {
         type: "Incorrect",
-        content: "Acelera antes de que la luz cambie a rojo.",
+        content: "Acelerar antes de que la luz cambie a rojo.",
       },
       {
         type: "Incorrect",
-        content: "detenerse por completo antes de proceder.",
+        content: "Detenerse por completo antes de proceder.",
       },
     ],
   },
@@ -103,28 +103,28 @@ var quizQuestions = [
     ],
   },
   {
-    question: "Vas manejando detras de una motocicleta y te la quieres pasar. Tu debes:",
+    question: "Usted va manejando detras de una motocicleta y desea sobrepasarla. Usted debe:",
     answers: [
       {
         type: "Correct",
-        content: "Tener tu vehiculo completamente en el carril izquierdo antes y durante el pase.",
+        content: "Tener su vehiculo completamente en el carril izquierdo antes y durante el pase.",
       },
       {
         type: "Incorrect",
-        content: "Toca la bocina para que la motocicleta se mueva hacia el hombro del carril para que puedas pasar.",
+        content: "Tocar la bocina para que la motocicleta se mueva hacia el hombro del carril para que pueda pasar.",
       },
       {
         type: "Incorrect",
-        content: "Quedate en la linea derecha el mayor tiempo posible, porque la motocicleta es pequena y no ocupa toda la linea.",
+        content: "Quedarse en la linea derecha el mayor tiempo posible, porque la motocicleta es pequeña y no ocupa toda la linea.",
       },
     ],
   },
   {
-    question: "Todos los niños de 8 a 18 tienen requerido manejar:",
+    question: "Todos los niños de 8 a 18 tienen requerido ir:",
     answers: [
       {
         type: "Correct",
-        content: "Con un asiento de seguridad para ninos o un cinturon de seguridad",
+        content: "Con un asiento de seguridad para niños o un cinturon de seguridad",
       },
       {
         type: "Incorrect",
@@ -154,7 +154,7 @@ var quizQuestions = [
     ],
   },
   {
-    question: "Manejar requiere toda tu atencion",
+    question: "Conducir requiere toda tu atencion",
     answers: [
       {
         type: "Correct",
@@ -167,7 +167,7 @@ var quizQuestions = [
     ],
   },
   {
-    question: "Es mas peligroso manejar de noche que de dia, porque:",
+    question: "Es mas peligroso conducir de noche que de dia, porque:",
     answers: [
       {
         type: "Correct",
@@ -277,7 +277,7 @@ var quizQuestions = [
       },
       {
         type: "Incorrect",
-        content: "Acumulara al menos 1 punto en la licencia",
+        content: "Acumular al menos 1 punto en la licencia",
       },
     ],
   },
@@ -384,7 +384,7 @@ var quizQuestions = [
     ],
   },
   {
-    question: "Una persona MAYOR de 21 anos es considerado 'bajo la influencia' cuando tiene un total de ____ alcohol en sangre",
+    question: "Una persona MAYOR de 21 años es considerado 'bajo la influencia' cuando tiene un total de ____ alcohol en sangre",
     answers: [
       {
         type: "Correct",
@@ -401,7 +401,7 @@ var quizQuestions = [
     ],
   },
   {
-    question: "Una persona MENOR de 21 anos es considerado 'bajo la influencia' cuando tiene un total de ____ alcohol en sangre",
+    question: "Una persona MENOR de 21 años es considerado 'bajo la influencia' cuando tiene un total de ____ alcohol en sangre",
     answers: [
       {
         type: "Correct",
@@ -456,7 +456,7 @@ var quizQuestions = [
     answers: [
       {
         type: "Correct",
-        content: "Exclusivamente para senales de pare",
+        content: "Exclusivamente para señales de pare",
       },
       {
         type: "Incorrect",
@@ -464,7 +464,7 @@ var quizQuestions = [
       },
       {
         type: "Incorrect",
-        content: "para senales de pare y de advertencia de ferrocarril",
+        content: "para señales de pare y de advertencia de ferrocarril",
       },
     ],
   },
